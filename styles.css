@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+#box {
+    border:2px solid;
+    margin:0px 200px 0px 200px;
+    padding-bottom:15px
+
+}
